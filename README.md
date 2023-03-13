@@ -15,14 +15,16 @@ Java 배열<br>
 ### 1-1 배열 선언<br>
 intarray에 1,2,3,4,5 값이 있고 max라는 변수에 0번째 인덱스에 있는 값을 줍니다.<br>
 
-![image](https://user-images.githubusercontent.com/126844692/224600874-cb6f3d36-dab1-4eae-9e68-124283645612.png)<br>
+![image](https://user-images.githubusercontent.com/126844692/224602564-369744d2-cbc2-42f0-a8ad-d4acc5aaa7a0.png)<br>
 ### 1-2 for문 if문 활용해 최댓값 찾기<br>
 그런 후 for문에서 인덱스 1부터 4까지 max와 비교합니다.<br>
 
-![image](https://user-images.githubusercontent.com/126844692/224601094-c86e9cfb-b7ff-4d14-8c78-220726fe48e8.png)<br>
+![image](https://user-images.githubusercontent.com/126844692/224602651-5edba391-0418-4aad-a773-f0c0fdbb5728.png)<br>
 ### 1-3 최댓값 출력하기<br>
 비교해서 더 크다면 max값을 해당 값으로 바꿔줍니다.<br>
 
-![image](https://user-images.githubusercontent.com/126844692/224601202-945e752f-b24d-472c-af54-774148809c36.png)<br>
+![image](https://user-images.githubusercontent.com/126844692/224602736-4ca60272-7fd9-4e20-97ed-6b9e8fe398e9.png)<br>
 ## 순서도<br>
 ![image](https://user-images.githubusercontent.com/126844692/224601423-d3339f72-1bab-48fd-8e0e-0a359b0e50c2.png)<br>
+## 실행 결과<br>
+![image](https://user-images.githubusercontent.com/126844692/224603613-589e15ef-5070-4119-8d92-1bd408137b9e.png)<br>
