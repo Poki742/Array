@@ -1,4 +1,4 @@
-# arr<br>
+# Array<br>
 Java 배열<br>
 ## 알고리즘<br>
 ### 자료구조<br>
